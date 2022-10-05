@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOUDINIENGINE_HoudiniInstanceTranslator_generated_h
 
-#define FID_Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_50_GENERATED_BODY \
+#define FID_TangCityGenerator_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_50_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniInstancedOutputPerSplitAttributes_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstancedOutputPerSplitAttributes>();
 
-#define FID_Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_78_GENERATED_BODY \
+#define FID_TangCityGenerator_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h_78_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoudiniInstancedOutputPartData_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstance
 template<> HOUDINIENGINE_API UScriptStruct* StaticStruct<struct FHoudiniInstancedOutputPartData>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h
+#define CURRENT_FILE_ID FID_TangCityGenerator_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngine_Private_HoudiniInstanceTranslator_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

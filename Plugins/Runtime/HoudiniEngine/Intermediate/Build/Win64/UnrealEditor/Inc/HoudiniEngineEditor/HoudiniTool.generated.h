@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define HOUDINIENGINEEDITOR_HoudiniTool_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Engine_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineEditor_Private_HoudiniTool_h
+#define CURRENT_FILE_ID FID_TangCityGenerator_Plugins_Runtime_HoudiniEngine_Source_HoudiniEngineEditor_Private_HoudiniTool_h
 
 
 #define FOREACH_ENUM_EHOUDINITOOLTYPE(op) \
